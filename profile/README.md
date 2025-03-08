@@ -1,12 +1,13 @@
-## Hi there 👋
+## Reply Two: Newsletter Ops for Creators 📧
 
-<!--
+We're an email newsletter agency that handles everything but the writing.
 
-**Here are some ideas to get you started:**
+**You create, we ship.** 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Reply Two provides full-stack newsletter operations for ambitious creators. We take care of all the technical, design, and operational aspects of running successful newsletters - deliverability, platform config, content formatting, and performance optimization.
+
+No more worrying about DNS records, blacklists, or why your open rates are tanking. You focus on creating killer content, we handle everything else.
+
+Visit [replytwo.com](https://replytwo.com) to learn how we can help scale your newsletter without the headaches.
+
+*P.S. We guarantee results. Seriously.*
