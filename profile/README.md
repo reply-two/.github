@@ -1,6 +1,6 @@
 ## Reply Two: Newsletter Ops for Creators 📧
 
-We're an [email newsletter agency]([https://replytwo.com](https://replytwo.com/email-marketing-agency) that handles everything but the writing.
+We're an [email newsletter agency](https://replytwo.com/email-marketing-agency) that handles everything but the writing.
 
 **You create, we ship.** 
 
