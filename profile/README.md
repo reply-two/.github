@@ -1,10 +1,10 @@
 ## Reply Two: Newsletter Ops for Creators 📧
 
-We're an email newsletter agency that handles everything but the writing.
+We're an [email newsletter agency]([https://replytwo.com](https://replytwo.com/email-marketing-agency) that handles everything but the writing.
 
 **You create, we ship.** 
 
-Reply Two provides full-stack newsletter operations for ambitious creators. We take care of all the technical, design, and operational aspects of running successful newsletters. 
+Reply Two provides [full-stack newsletter operations](https://replytwo.com) for ambitious creators. We take care of all the technical, design, and operational aspects of running successful newsletters. 
 
 Including: 
 
